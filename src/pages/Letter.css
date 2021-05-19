@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 5%;
+}
+
+.letter {
+    width: 50%;
+}
+
+.letter .header {
+    text-align: center;
+}
+
+.letter .body section {
+    margin-top: 5%;
+}

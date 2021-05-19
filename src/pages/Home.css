@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.container .form {
+    width: 50%;
+}
+
+.container .form button {
+    margin: 3%;
+    width: 50%;
+}
+
+.first-line {
+    display: flex;
+}
+
+.first-line section {
+    margin: 1%;
+    width: 50%;
+}
